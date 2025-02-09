@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // Configurações removidas temporariamente
 };
 
 export default nextConfig;
+
+
+
